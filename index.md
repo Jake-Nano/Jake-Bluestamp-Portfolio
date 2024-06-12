@@ -1,11 +1,8 @@
 # Tensorflow Object Detector
 My project is an object detection system. To use the project, you place the object in front of the attatched camera, and the system will identify the object and print out that guess.
 
-<!--- You should comment out all portions of your portfolio that you have not completed yet, as well as any instructions: __>
-```HTML 
-<!--- This is an HTML comment in Markdown -->
-<!--- Anything between these symbols will not render on the published site -->
-```
+<!--- You should comment out all portions of your portfolio that you have not completed yet, as well as any instructions: -->
+
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
