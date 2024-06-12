@@ -46,6 +46,8 @@ For your second milestone, explain what you've worked on since your previous mil
 **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/x42fLah2oPk?si=IGls7z8FMfvzWa6T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 My first milestone included setting up the raspberry pi, setting up the camera, and then connecting the LCD display.
   -At the beginning, we struggledwith getting the pi set up, but when we switched from a 32 bit os to a 64 bit os, we were able to get the system to work. After getting the initial setup working, the rest of the milestone was far easier
   -Next objective is to get the camera working for the detection, without caring about its accuracy
