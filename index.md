@@ -51,7 +51,7 @@ For your second milestone, explain what you've worked on since your previous mil
 My first milestone included setting up the raspberry pi, setting up the camera, and then connecting the LCD display.
   -At the beginning, we struggledwith getting the pi set up, but when we switched from a 32 bit os to a 64 bit os, we were able to get the system to work. After getting the initial setup working, the rest of the milestone was far easier
   -Next objective is to get the camera working for the detection, without caring about its accuracy
-<!--For your first milestone, describe what your project is and how you plan to build it. You can include:
+<!-- For your first milestone, describe what your project is and how you plan to build it. You can include:
 - An explanation about the different components of your project and how they will all integrate together
 - Technical progress you've made so far
 - Challenges you're facing and solving in your future milestones
