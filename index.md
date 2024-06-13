@@ -51,9 +51,11 @@ The next step in my project will be the audio system, where the system will be a
 
 My first milestone included setting up the raspberry pi, setting up the camera, and then connecting the LCD display.
 
-  -At the beginning, we struggled with getting the pi set up, but when we switched from a 32 bit os to a 64 bit os, we were able to get the system to work. After getting the initial setup working, the rest of the milestone was far easier
+At the beginning, I struggled with getting the pi set up, but when I switched from a 32 bit os to a 64 bit os, I was able to get the system to work. After getting the initial setup working, the rest of the milestone was far easier
 
-  -The next step in the project is to get the AI systems set up so that the camera can detect objects and label them
+I was able to get the camera working by manually wiring each pin to its counterpart, and when I fixed the issue of the pi constantly disconnecting, the system worked
+
+The next step in the project is to get the AI systems set up so that the camera can detect objects and label them
 
 # Starter Project
 <iframe width="560" height="315" src="https://www.youtube.com/embed/c17OwP32b1U?si=thviAxQ3rvXzbX2C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
