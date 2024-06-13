@@ -89,8 +89,9 @@ Don't forget to place the link of where to buy each component inside the quotati
 | **Part** | **Note** | **Price** | **Link** |
 |:--:|:--:|:--:|:--:|
 | Adafruit BrainCraft HAT - Machine Learning for Raspberry Pi 4 | Display | 44.95 | <a href="https://www.adafruit.com/product/4374"> Link </a> |
-| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
-| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
+| Raspberry Pi 4 Model B - 4 GB RAM | Brain of project, is the computer the system runs on | $45 | <a href="https://www.adafruit.com/product/4296"> Link </a> |
+| Raspberry Pi Camera Module 3 Standard - 12MP Autofocus | System camera | $25 | <a href="https://www.adafruit.com/product/5657"> Link </a> |
+| Miniature 5V Cooling Fan for Raspberry Pi | Cooling so the system does not overheat | $3.50 | <a href="https://www.adafruit.com/product/3368"> Fan </a> |
 
 # Other Resources/Examples
 One of the best parts about Github is that you can view how other people set up their own work. Here are some past BSE portfolios that are awesome examples. You can view how they set up their portfolio, and you can view their index.md files to understand how they implemented different portfolio components.
