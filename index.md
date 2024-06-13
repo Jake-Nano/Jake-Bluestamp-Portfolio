@@ -32,6 +32,8 @@ For your final milestone, explain the outcome of your project. Key details to in
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/x2qqPhE9mOY?si=CU2d3d706k3Kq0zh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+
+Since the First Milestone, I was able to get the AI element of the project working. In this section, I stru
 For your second milestone, explain what you've worked on since your previous milestone. You can highlight:
 - Technical details of what you've accomplished and how they contribute to the final goal
 - What has been surprising about the project so far
@@ -47,13 +49,14 @@ For your second milestone, explain what you've worked on since your previous mil
 My first milestone included setting up the raspberry pi, setting up the camera, and then connecting the LCD display.
 
   -At the beginning, we struggled with getting the pi set up, but when we switched from a 32 bit os to a 64 bit os, we were able to get the system to work. After getting the initial setup working, the rest of the milestone was far easier
-  
-  -Next objective is to get the camera working for the detection, without caring about its accuracy
-<!--- For your first milestone, describe what your project is and how you plan to build it. You can include: -->
-<!--- - An explanation about the different components of your project and how they will all integrate together -->
-<!--- - Technical progress you've made so far -->
-<!--- - Challenges you're facing and solving in your future milestones -->
-<!--- - What your plan is to complete your project -->
+
+  -The next step in the project is to get the AI systems set up so that the camera can detect objects and label them
+
+# Starter Project
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17OwP32b1U?si=thviAxQ3rvXzbX2C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+I chose the calculator as a starter project mostly randomly, but it turned out to be a great choice, as it was perfect for learning soldering and it was similar to my main project. My biggest challenge in the project was inexperience with soldering. I had to solder sections where all the pins were close together, and being so new, I struggled with making sure that all the pins were soldered correctly while also confirming that I did not connect pines that should be separate. Otherwise the project went smoothly and I finished quickly. One thing that helped me finish quickly was working with other people. Whenever I got stuck, after I tried troubleshooting I would ask those around me for help. By asking for help and giving help when asked, myself and those around me were able to pass roadblocks and finish the project more quickly and efficiently.
+
 
 # Schematics 
 Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. 
