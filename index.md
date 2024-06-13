@@ -8,7 +8,7 @@ My project is an object detection system. To use the project, you place the obje
 |:--:|:--:|:--:|:--:|
 | Jake N | Gunn | Electrical and Computer Engineering | Incoming Senior
 
-**Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.**
+<!--**Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.**-->
 
 ![Headstone Image](Jake.jpg)  
 <!--- # Final Milestone
