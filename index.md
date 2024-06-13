@@ -36,7 +36,7 @@ For your final milestone, explain the outcome of your project. Key details to in
 Since the First Milestone, I was able to get the AI element of the project working. The main changes from the first milestone are:
 
   - The wiring
-      - Switching out the mess of individual wires for a single ribbon cable mad the device easier to troubleshoot and made the process easier
+      - Switching out the mess of individual wires for a single ribbon cable made the device easier to troubleshoot and made the process easier
   - The AI system
       - The setup of the AI system made the object detection possible. I did this by installing Tensorflow, and using commands to run the AI system.
       - I struggled with the setup of the Tensorflow system. By following the instructions exactly, I was getting arrows. At this point I needed the help of instructors, and to help solve this problem, they had to use their own experience with linux to find solutions that the instructions did not mention. After getting Tensorflow set up, it was smooth sailing to the end, where I was able to get the system running.
@@ -63,6 +63,7 @@ I chose the calculator as a starter project mostly randomly, but it turned out t
 
 
 # Schematics 
+adafruit_products_Braincraft_HAT_RasPi_pinouts_schematic.png
 Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. 
 
 # Code
