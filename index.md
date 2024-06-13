@@ -62,7 +62,7 @@ I chose the calculator as a starter project mostly randomly, but it turned out t
 
 
 # Schematics 
-adafruit_products_Braincraft_HAT_RasPi_pinouts_schematic.png
+[!Pinouts](adafruit_products_Braincraft_HAT_RasPi_pinouts_schematic.png)
 <!--Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. -->
 
 <!-- # Code
