@@ -1,5 +1,5 @@
 # Tensorflow Object Detector
-My project is an object detection system. To use the project, you place the object in front of the attatched camera, and the system will identify the object and print out that guess.
+My project is an object detection system. To use the project, you place the object in front of the attatched camera, and the system will identify the object and print out that guess. It uses the raspberry pi system attached to a Braincraft Hat to display the detections on the screen. There is an external camera for the recording of the object, as there is no built in camera for the Braincraft Hat. 
 
 <!--- You should comment out all portions of your portfolio that you have not completed yet, as well as any instructions: -->
 
@@ -11,9 +11,9 @@ My project is an object detection system. To use the project, you place the obje
 <!--**Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.**-->
 
 ![Headstone Image](Jake.jpg)  
-<!--- # Final Milestone
+<!-- # Final Milestone -->
 
-**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
+<!-- **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F7M7imOVGug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -21,8 +21,8 @@ For your final milestone, explain the outcome of your project. Key details to in
 - What you've accomplished since your previous milestone
 - What your biggest challenges and triumphs were at BSE
 - A summary of key topics you learned about
-- What you hope to learn in the future after everything you've learned at BSE 
--->
+- What you hope to learn in the future after everything you've learned at BSE -->
+
 
 
 
