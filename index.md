@@ -33,12 +33,16 @@ For your final milestone, explain the outcome of your project. Key details to in
 <iframe width="560" height="315" src="https://www.youtube.com/embed/x2qqPhE9mOY?si=CU2d3d706k3Kq0zh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-Since the First Milestone, I was able to get the AI element of the project working. In this section, I stru
-For your second milestone, explain what you've worked on since your previous milestone. You can highlight:
-- Technical details of what you've accomplished and how they contribute to the final goal
-- What has been surprising about the project so far
-- Previous challenges you faced that you overcame
-- What needs to be completed before your final milestone 
+Since the First Milestone, I was able to get the AI element of the project working. The main changes from the first milestone are:
+
+  - The wiring
+      - Switching out the mess of individual wires for a single ribbon cable mad the device easier to troubleshoot and made the process easier
+  - The AI system
+      - The setup of the AI system made the object detection possible. I did this by installing Tensorflow, and using commands to run the AI system.
+      - I struggled with the setup of the Tensorflow system. By following the instructions exactly, I was getting arrows. At this point I needed the help of instructors, and to help solve this problem, they had to use their own experience with linux to find solutions that the instructions did not mention. After getting Tensorflow set up, it was smooth sailing to the end, where I was able to get the system running.
+
+The next step in my project will be the audio system, where the system will be able to say what the system detects using the linux audio systems. 
+
 
 # First Milestone
 
