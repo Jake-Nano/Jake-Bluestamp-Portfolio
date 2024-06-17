@@ -13,7 +13,7 @@ My project is an object detection system. To use the project, you place the obje
 <!---![Headstone Image](Jake.jpg)  -->
 <img src="Jake.jpg" style="width: 50%; height: 50%">
 
- # Final Milestone
+# Final Milestone
 <!--   **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share  Embed, and copy and paste the code to replace what's below.** -->
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zEZe-Us_2-w?si=88xVcjys6cefbscA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
