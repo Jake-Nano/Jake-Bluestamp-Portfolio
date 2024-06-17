@@ -11,7 +11,7 @@ My project is an object detection system. To use the project, you place the obje
 <!--**Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.**   -->
 
 <!---![Headstone Image](Jake.jpg)  -->
-<img src="Jake.jpg"
+<img src="Jake.jpg" style="width: 50%; height: 50%">
  # Final Milestone
 <!--   **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share  Embed, and copy and paste the code to replace what's below.** -->
 
