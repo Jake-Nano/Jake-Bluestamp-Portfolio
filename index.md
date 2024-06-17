@@ -12,6 +12,7 @@ My project is an object detection system. To use the project, you place the obje
 
 <!---![Headstone Image](Jake.jpg)  -->
 <img src="Jake.jpg" style="width: 50%; height: 50%">
+
  # Final Milestone
 <!--   **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share  Embed, and copy and paste the code to replace what's below.** -->
 
@@ -74,6 +75,8 @@ I chose the calculator as a starter project mostly randomly, but it turned out t
 # Schematics 
 ![Pinouts](adafruit_products_Braincraft_HAT_RasPi_pinouts_schematic.png)
 <!--Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. -->
+
+Image from:https://learn.adafruit.com/adafruit-braincraft-hat-easy-machine-learning-for-raspberry-pi/pinouts
 
 <!-- # Code
 Here's where you'll put your code. The syntax below places it into a block of code. Follow the guide [here]([url](https://www.markdownguide.org/extended-syntax/)) to learn how to customize it to your project needs. 
