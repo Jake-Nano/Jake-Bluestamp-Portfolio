@@ -21,8 +21,9 @@ The final milestone of the project was to complete the object detection. Using T
 
   My biggest accomplishment for this project was getting the LCD display to function, as once the lcd display functioned, I had gained a lot of experience with linux through the time it took to get the LCD to work, and the rest of the project was much easier to complete.
 
-  I hope to learn more about linux using a Virtualbox, I hopeto learn about how to control servos using the Tensorflow software, and I hope to just gain experience with hardware thorough my mods
-<!-- For your final milestone, explain the outcome of your project. Key details to include are:
+  I hope to learn more about linux using a Virtualbox, I hope to learn about how to control servos using the Tensorflow software, and I want to just gain experience with hardware through my mods
+  
+<!--- For your final milestone, explain the outcome of your project. Key details to include are:
 - What you've accomplished since your previous milestone
 - What your biggest challenges and triumphs were at BSE
 - A summary of key topics you learned about
