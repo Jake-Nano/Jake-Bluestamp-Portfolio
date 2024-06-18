@@ -117,9 +117,9 @@ Don't forget to place the link of where to buy each component inside the quotati
 
 | **Part** | **Note** | **Price** | **Link** |
 |:--:|:--:|:--:|:--:|
-| Adafruit BrainCraft HAT - Machine Learning for Raspberry Pi 4 | Display | 44.95 | <a href="https://www.adafruit.com/product/4374"> Link </a> |
-| Raspberry Pi 4 Model B - 4 GB RAM | Brain of project, is the computer the system runs on | $45 | <a href="https://www.adafruit.com/product/4296"> Link </a> |
-| Raspberry Pi Camera Module 3 Standard - 12MP Autofocus | System camera | $25 | <a href="https://www.adafruit.com/product/5657"> Link </a> |
+| Adafruit BrainCraft HAT - Machine Learning for Raspberry Pi 4 | Display | $44.95 | <a href="https://www.adafruit.com/product/4374"> Link </a> |
+| Raspberry Pi 4 Model B - 4 GB RAM | Brain of project, is the computer the system runs on | $45.00 | <a href="https://www.adafruit.com/product/4296"> Link </a> |
+| Raspberry Pi Camera Module 3 Standard - 12MP Autofocus | System camera | $25.00 | <a href="https://www.adafruit.com/product/5657"> Link </a> |
 | Miniature 5V Cooling Fan for Raspberry Pi | Cooling so the system does not overheat | $3.50 | <a href="https://www.adafruit.com/product/3368"> Fan </a> |
 
 <!--- # Other Resources/Examples
