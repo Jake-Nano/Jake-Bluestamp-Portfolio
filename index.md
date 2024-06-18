@@ -34,6 +34,7 @@ The final milestone of the project was to complete the object detection. Using T
 
 
 
+
 # Second Milestone
 
 
@@ -41,16 +42,18 @@ The final milestone of the project was to complete the object detection. Using T
 <iframe width="560" height="315" src="https://www.youtube.com/embed/x2qqPhE9mOY?si=CU2d3d706k3Kq0zh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-Since the First Milestone, I was able to get the AI element of the project working. The main changes from the first milestone are:
+## Progress
 
-  - The wiring
-      - Switching out the mess of individual wires for a single ribbon cable made the device easier to troubleshoot and made the process easier
-  - The AI system
-      - The setup of the AI system made the object detection possible. I did this by installing Tensorflow, and using commands to run the AI system.
-      - I struggled with the setup of the Tensorflow system. By following the instructions exactly, I was getting arrows. At this point I needed the help of instructors, and to help solve this problem, they had to use their own experience with linux to find solutions that the instructions did not mention. After getting Tensorflow set up, it was smooth sailing to the end, where I was able to get the system running.
+Since the last milestone, I have connected the camera to the Raspberry pi, connect the camera to the display, and gotten the AI functions to work. As well as setting up the AI, I have solved my hardware problems, as the ribbon cable arrived and that solved the problems of disconnections. 
+
+## Challenges
+<!-- Since the First Milestone, I was able to get the AI element of the project working. The main changes from the first milestone are: -->
+
+The main problems from this section were software, as I had fixed all hardware issues. Not all of the installs worked as intended, as many caused errors. Specifically, many of the installs said that things needed to be installed to continue, but when I checked, they were already installed. Most of the problems could be solved by forcing the install, despite Linux saying that doing so could corrupt the system.
+
+## Next steps
 
 The next step in my project will be the audio system, where the system will be able to say what the system detects using the linux audio systems. 
-
 
 # First Milestone
 
