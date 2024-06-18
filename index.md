@@ -17,11 +17,20 @@ My project is an object detection system. To use the project, you place the obje
 <!--   **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share  Embed, and copy and paste the code to replace what's below.** -->
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zEZe-Us_2-w?si=88xVcjys6cefbscA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Progress
+
 The final milestone of the project was to complete the object detection. Using Tensorflow, I was able to set the camera to detect objects. Tensorflow has a database, so I did not have to train the ai model, but it is possible to improve the detection system through further training. I plan to modify the project in a different way, by integrating the system with a robot, allowing the robot to move based on the detections of the ai software. 
+
+## Challenges
 
   Some of the challenges with this system came from linux and the raspberry pi. It was my first time dealing with both of them, so much of the things I had to do to set up the systems were brand new. As I got more familiar with both systems it became easier to coplete the project
 
+## Accomplishments
+
   My biggest accomplishment for this project was getting the LCD display to function, as once the lcd display functioned, I had gained a lot of experience with linux through the time it took to get the LCD to work, and the rest of the project was much easier to complete.
+
+## Goals
 
   I hope to learn more about linux using a Virtualbox, I hope to learn about how to control servos using the Tensorflow software, and I want to just gain experience with hardware through my mods
   
