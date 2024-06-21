@@ -83,7 +83,7 @@ My first milestone included setting up the raspberry pi, setting up the camera, 
 At the beginning, I struggled with getting the pi set up, but when I switched from a 32 bit os to a 64 bit os, I was able to get the system to work. After getting the initial setup working, the rest of the milestone was far easier. One of the other problems I had was from the hardware, where in the instructions they used a different setup than me, as they were able to directly connect the Braincraft Hat to the Raspberry Pi. But because I had to have a fan and heat sinks the Braincraft Hat could not fit on the Pi. At first I tried using extenders, but the Braincraft kept disconnecting. To solve the issue I had to individually wire each pin to its counterpart. I also ordered a ribbon cable to switch to later to solve problems of potential disconnects.
 ## Next Steps
 
-My next step in this project is to set up the camera, connect it, and finally set up the AI detection system to use the camera output and actually detect objects.
+My next step in this project is to set up the camera, connect it, and finally set up the AI detection system to use the camera output and actually detect objects. I will not be attempting to set up the audio, as I have heard that the audio takes much time, and I would like to get the system working first.
 
 # Starter Project
 <iframe width="560" height="315" src="https://www.youtube.com/embed/c17OwP32b1U?si=thviAxQ3rvXzbX2C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
