@@ -123,10 +123,11 @@ Don't forget to place the link of where to buy each component inside the quotati
 
 | **Part** | **Note** | **Price** | **Link** |
 |:--:|:--:|:--:|:--:|
-| Adafruit BrainCraft HAT - Machine Learning for Raspberry Pi 4 | Display | $44.95 | <a href="https://www.adafruit.com/product/4374"> Link </a> |
-| Raspberry Pi 4 Model B - 4 GB RAM | Brain of project, is the computer the system runs on | $45.00 | <a href="https://www.adafruit.com/product/4296"> Link </a> |
-| Raspberry Pi Camera Module 3 Standard - 12MP Autofocus | System camera | $25.00 | <a href="https://www.adafruit.com/product/5657"> Link </a> |
+| Adafruit BrainCraft HAT - Machine Learning for Raspberry Pi 4 | Display | $44.95 | <a href="https://www.adafruit.com/product/4374"> Display </a> |
+| Raspberry Pi 4 Model B - 4 GB RAM | Brain of project, is the computer the system runs on | $45.00 | <a href="https://www.adafruit.com/product/4296"> Pi </a> |
+| Raspberry Pi Camera Module 3 Standard - 12MP Autofocus | System camera | $25.00 | <a href="https://www.adafruit.com/product/5657"> Camera </a> |
 | Miniature 5V Cooling Fan for Raspberry Pi | Cooling so the system does not overheat | $3.50 | <a href="https://www.adafruit.com/product/3368"> Fan </a> |
+| Anker Power Core | portable battery | $21.99 | <a href="https://www.amazon.com/Anker-PowerCore-Ultra-Compact-High-Speed-Technology/dp/B01CU1EC6Y/ref=asc_df_B01CU1EC6Y/?tag=hyprod-20&linkCode=df0&hvadid=693712892542&hvpos=&hvnetw=g&hvrand=12042214632185757683&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032183&hvtargid=pla-523807968135&psc=1&mcid=fdcb0f9cf99a38f59c978b1beff59d4f&gad_source=1"> Battery </a> |
 
 <!--- # Other Resources/Examples
 One of the best parts about Github is that you can view how other people set up their own work. Here are some past BSE portfolios that are awesome examples. You can view how they set up their portfolio, and you can view their index.md files to understand how they implemented different portfolio components.
