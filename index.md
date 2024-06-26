@@ -17,7 +17,7 @@ The modification to the project that I decided on was mounting the system to a r
 
 # Modifications
 
-My modification is to mount the raspberry pi to a three wheeled robot, allowing me to control the movement of the camera. So far, I have managed to mount the camera, a battery and I connected the pi to a VNC, allowing me to control the car remotely. My next steps right now are to fix the setup, as right now the setup is very messy, making it harder to work on the project. One of the problems I have faced with this is that I dont have enough space to fit all of my parts.
+My modification is to mount the raspberry pi to a three wheeled robot, allowing me to control the movement of the camera. So far, I have managed to mount the camera, a battery and I connected the pi to a VNC, allowing me to control the car remotely. My next steps right now are to fix the setup, as right now the setup is very messy, making it harder to work on the project. One of the problems I have faced with this is that I dont have enough space to fit all of my parts. I solved this by completely reshaping where I place my parts, as well as getting a smaller battery and 3d printing a mount for it
 
 # Final Milestone
 <!--   **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share  Embed, and copy and paste the code to replace what's below.** -->
