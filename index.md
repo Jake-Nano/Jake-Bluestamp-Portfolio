@@ -90,6 +90,12 @@ My next step in this project is to set up the camera, connect it, and finally se
 # Starter Project
 <iframe width="560" height="315" src="https://www.youtube.com/embed/c17OwP32b1U?si=thviAxQ3rvXzbX2C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+I chose the calculator as my starter project. The assembly process was mostly soldering. First, you would solder on the first part of the integrated circuit, then the buttons, and finally attach the button caps and the rest of the integrated circuit. By pressing the buttons, you send signals to the integrated circuit, and the circuit will send signals to the led display to show the outputs of the function. 
+
+## Challenges
+
+This was my first experience soldering, so I struggled with areas where I had to solder in small spaces. For example when soldering the integrated circuit, the pins were in close proximity, so I would often mess up older solders and struggled to make my solders nice. Along with these struggles, I had a hard time working with my second solder, as when I switched, the new solder would not get hot enough to easily melt the solder. As a result, I nearly burned the calculator, I messed up old solders, and I had to switch my soldering iron a second time. 
+
 I chose the calculator as a starter project mostly randomly, but it turned out to be a great choice, as it was perfect for learning soldering and it was similar to my main project. My biggest challenge in the project was inexperience with soldering. I had to solder sections where all the pins were close together, and being so new, I struggled with making sure that all the pins were soldered correctly while also confirming that I did not connect pines that should be separate. Otherwise the project went smoothly and I finished quickly. One thing that helped me finish quickly was working with other people. Whenever I got stuck, after I tried troubleshooting I would ask those around me for help. By asking for help and giving help when asked, myself and those around me were able to pass roadblocks and finish the project more quickly and efficiently.
 
 
