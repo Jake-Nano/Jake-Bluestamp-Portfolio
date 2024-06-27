@@ -96,8 +96,6 @@ I chose the calculator as my starter project. The assembly process was mostly so
 
 This was my first experience soldering, so I struggled with areas where I had to solder in small spaces. For example when soldering the integrated circuit, the pins were in close proximity, so I would often mess up older solders and struggled to make my solders nice. Along with these struggles, I had a hard time working with my second solder, as when I switched, the new solder would not get hot enough to easily melt the solder. As a result, I nearly burned the calculator, I messed up old solders, and I had to switch my soldering iron a second time. 
 
-I chose the calculator as a starter project mostly randomly, but it turned out to be a great choice, as it was perfect for learning soldering and it was similar to my main project. My biggest challenge in the project was inexperience with soldering. I had to solder sections where all the pins were close together, and being so new, I struggled with making sure that all the pins were soldered correctly while also confirming that I did not connect pines that should be separate. Otherwise the project went smoothly and I finished quickly. One thing that helped me finish quickly was working with other people. Whenever I got stuck, after I tried troubleshooting I would ask those around me for help. By asking for help and giving help when asked, myself and those around me were able to pass roadblocks and finish the project more quickly and efficiently.
-
 
 # Schematics 
 ![Pinouts](adafruit_products_Braincraft_HAT_RasPi_pinouts_schematic.png)
