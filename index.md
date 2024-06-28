@@ -1,4 +1,4 @@
-# Tensorflow Object Detector
+# Tensorflowlite Object Detector, By Jake Nanevicz
 My project is an object detection system. To use the project, you place the object in front of the attatched camera, and the system will identify the object and print out that guess. It uses the raspberry pi system attached to a Braincraft Hat to display the detections on the screen. There is an external camera for the recording of the object, as there is no built in camera for the Braincraft Hat. 
 
 The modification to the project that I decided on was mounting the system to a robot. The robot is commanded by myself, and I connect my laptop, through a VNC, to the raspberry pi so I can control the bot and see what the camera sees.
