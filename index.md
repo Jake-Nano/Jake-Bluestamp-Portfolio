@@ -19,7 +19,12 @@ The modification to the project that I decided on was mounting the system to a r
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Bby9xVnMxLs?si=quy7sN0_08KX2NOO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-My modification is to mount the raspberry pi to a three wheeled robot, allowing me to control the movement of the camera. So far, I have managed to mount the camera, a battery and I connected the pi to a VNC, allowing me to control the car remotely. My next steps right now are to fix the setup, as right now the setup is very messy, making it harder to work on the project. One of the problems I have faced with this is that I dont have enough space to fit all of my parts. I solved this by completely reshaping where I place my parts, as well as getting a smaller battery and 3d printing a mount for it
+## Progress
+
+My modification is to mount the raspberry pi to a three wheeled robot, allowing me to control the movement of the camera. So far, I have managed to mount the camera, a battery and I connected the pi to a VNC, allowing me to control the car remotely. My next steps right now are to fix the setup, as right now the setup is very messy, making it harder to work on the project. One of the problems I have faced with this is that I dont have enough space to fit all of my parts. I solved this by completely reshaping where I place my parts, as well as getting a smaller battery and 3d printing a mount for it.
+## Challenges
+
+One of the things I struggled with for the modifications was the VNC, as I got new errors each time I connected. From no host found, to authentication error, I could not consistently get the VNC to work. By the end, I realized that some of the ports on the pi were vlocked onn school wifi, so me and Arman started connecting to my personal hotspot. Once that worked, the next problem with my mods was the fitment. I had struggled to fit all of the parts on the chassis, as I was using tape to fit all of the parts, but the tape was taking up more space than the parts. So I took apart the entire chassis and reassembled it using hot glue and a 3d printed holder for the battery, and the parts barely fit.
 
 # Final Milestone
 <!--   **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share  Embed, and copy and paste the code to replace what's below.** -->
